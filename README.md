@@ -1,6 +1,6 @@
 # Fake News Detector
 
-**Live repo:** [github.com/mdraj-hunter/fake-news-detector](https://github.com/mdraj-hunter/fake-news-detector)
+**Live app:** [Streamlit public demo](https://fake-news-detector-xcgxfcivdd3quciygjnpzy.streamlit.app/) (`https://fake-news-detector-xcgxfcivdd3quciygjnpzy.streamlit.app/`) · **Repo:** [github.com/mdraj-hunter/fake-news-detector](https://github.com/mdraj-hunter/fake-news-detector)
 
 Classifies pasted news text as **real** or **fake** using **TF‑IDF + Random Forest** (labels from a paired fake/real article dataset). Built with Python, pandas, scikit-learn, NLTK, and Streamlit—runs locally, in Docker, or on [Streamlit Community Cloud](https://streamlit.io/cloud).
 
@@ -8,7 +8,7 @@ Classifies pasted news text as **real** or **fake** using **TF‑IDF + Random Fo
 
 ## Live app
 
-After you deploy on [Streamlit Community Cloud](https://share.streamlit.io/), add your public URL here (it will look like `https://<your-app>.streamlit.app`).
+**Try it:** [https://fake-news-detector-xcgxfcivdd3quciygjnpzy.streamlit.app/](https://fake-news-detector-xcgxfcivdd3quciygjnpzy.streamlit.app/) (Streamlit Community Cloud).
 
 ## Quick start (local)
 
