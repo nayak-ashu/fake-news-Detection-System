@@ -48,4 +48,4 @@ def predict_article(article_text):
 if __name__ == "__main__":
     article = input("Paste a news article here:\n")
     out = predict_article(article)
-    print(out.get("headline", out))
+    print(out.get("headline and head", out))
